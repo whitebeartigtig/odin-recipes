@@ -7,12 +7,14 @@
     text-align: center;
     text-color: green;
     list-style-position: inside;
-}
-.pumpkinpiecake-body {
     background-color: #F56C3C;
 }
-#breakdown {
+#liststables {
     list-style: none;
+    display: inline-block;
+    text-align: left;
+}
+#liststablesnumbered {
     display: inline-block;
     text-align: left;
 }
