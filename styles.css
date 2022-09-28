@@ -21,7 +21,6 @@
     text-align: center;
 }
 .pumpkinpiecake {
-    
     text-align: center;
     text-color: green;
     list-style-position: inside;
@@ -30,6 +29,12 @@
 .imagescaling {
     height: 500px;
     width: auto;
+}
+.textwrap {
+    inline-size: auto;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    text-align: center;
 }
 #liststables {
     list-style: none;
