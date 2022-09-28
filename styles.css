@@ -27,6 +27,10 @@
     list-style-position: inside;
     background-color: #F56C3C;
 }
+.imagescaling {
+    height: 500px;
+    width: auto;
+}
 #liststables {
     list-style: none;
     display: inline-block;
